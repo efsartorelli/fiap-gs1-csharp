@@ -79,6 +79,7 @@ user    | abcd
 
 - Nome: EDEZKANIRO
 - GitHub: https://github.com/efsartorelli
+- Link do vídeo no youtube: https://youtu.be/hgBNQZM_Bhw
 - Curso: Engenharia de Software - FIAP 2025
 
 ---
