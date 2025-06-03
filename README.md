@@ -90,4 +90,6 @@ user    | abcd
 - Dados armazenados localmente em JSON, podendo evoluir para banco de dados
 - Código estruturado para fácil manutenção e expansão
 
+Eduardo de Oliveira Nistal - RM94524 Enzo Vazquez Sartorelli - RM94618 
+
 🗓️ Última atualização: 02/06/2025
